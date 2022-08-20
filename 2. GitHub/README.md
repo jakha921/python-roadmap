@@ -2,14 +2,14 @@
 
 ## Содержание:
 
-1. [create new repository and push it to GitHub]("#create-new-repository-and-push-it-to-GitHub")
-2. [connect to GitHub]("#connect-to-GitHub")
-3. [clone repository]("#clone-repository")
-4. [get all updates from GitHub]("#get-all-updates-from-GitHub")
-5. [create new branch]("#create-new-branch")
-6. [delete branch]("#delete-branch")
-7. [fetch branch]("#fetch-branch")
-8. [delete repository]("#delete-repository")
+1. [create a new repository and push it to GitHub](#create-new-repository-and-push-it-to-GitHub)
+2. [connect to GitHub](#connect-to-GitHub)
+3. [clone repository](#clone-repository)
+4. [get all updates from GitHub](#get-all-updates-from-GitHub)
+5. [create new branch](#create-new-branch)
+6. [delete branch](#delete-branch)
+7. [fetch branch](#fetch-branch)
+8. [delete repository](#delete-repository)
 
 # create new repository and push it to GitHub
 
