@@ -10,7 +10,7 @@
 6. [delete branch](#delete-branch)
 7. [fetch branch](#fetch-branch)
 8. [delete repository](#delete-repository)
-9. [clone repo and push it to own repo](#clone-repo-and-push-it-to-own-repo)
+9. [change remote repo to new ](#change-remote-repo-to-new )
 
 # create new repository and push it to GitHub
 
@@ -73,7 +73,7 @@
 
 ---
 
-# clone repo and push it to own repo
+# change remote repo to new
 
     git remote set-url origin new.git.url/here
 
