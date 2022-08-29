@@ -1,5 +1,39 @@
 # Pyton intro
 
+### Для чего вообще изучать Python
+
++ Web Development
+    + Django
+    + FastAPI
+    + Flask
++ GUI Development
+    + wxPython
+    + tkinter
++ Game Development
+    + PyGame
++ Machine Learning
+    + TensorFlow
++ Scientific Computing
+    + NumPy
+    + SciPy
++ Web Scraping
+    + Beautiful Soup
+    + requests
++ DevOps
+    + Docker Compose
+    + Ansible
++ Development Environment
+    + pip
+    + pipenv
+    + venv
++ Software Testing
+    + pytest
+    + unittest
++ Develop Embedded Systems and Robots
+    + Raspberry Pi
+    + MicroPython
+    +
+
 1. Заходем на [Python.org](https://www.python.org/)
 2. Скачиваем Python <img src="./materials/download_file.jpg">
 3. Ставим галочку (Что бы по команде, а не по пути установки) <img src="./materials/tick.jpg">
