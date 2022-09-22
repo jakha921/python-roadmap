@@ -1,5 +1,7 @@
 # GitHub main commands
 
+## [Git installation](https://phoenixnap.com/kb/how-to-install-git-windows)
+
 ## Содержание:
 
 1. [create a new repository and push it to GitHub](#create-new-repository-and-push-it-to-GitHub)
